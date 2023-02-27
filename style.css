@@ -1,0 +1,31 @@
+
+.container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 310px;
+    width: 410px;
+    padding: 5px;
+    
+}
+
+.score {
+    display: flex;
+    font-family: sans-serif;
+     width: 100%; 
+     justify-content: center;
+
+    
+}
+.score h3{
+    align-self: center;  
+    padding: 10px;
+    
+    background-color:#FFC60B;
+
+}
